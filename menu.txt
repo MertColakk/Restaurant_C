@@ -1,0 +1,12 @@
+1 Coke 1.99
+2 Ayran 0.50
+3 Turnip 0.49
+4 Fanta 1.89
+5 Soda 1.99
+6 Steak 15.85
+7 Burger 10.58
+8 Smoked Salmon 31.34
+9 Season Salad 8.96
+10 Tea 0.35
+11 Ice Americano 2.32
+
